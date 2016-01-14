@@ -5,6 +5,8 @@
 
 Read more about pomodoro [here][2].
 
+_Pomodoro Icon by [Pablo Montesdeoca][6]_
+
 ###Install
 
  - Add your token in ```./config.js```
@@ -35,3 +37,4 @@ Update timing and messages at ```./config.js```
   [3]: https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
   [4]: http://i.imgur.com/EjKQEzI.png
   [5]: http://i.imgur.com/gl7wqQW.png
+  [6]: https://dribbble.com/pablo-montesdeoca

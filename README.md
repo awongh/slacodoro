@@ -33,7 +33,7 @@ Update timing and messages at ```./config.js```
 
 
   [1]: http://i.imgur.com/KXGFTaI.png
-  [2]: https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
+  [2]:  http://pomodorotechnique.com/
   [3]: https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
   [4]: http://i.imgur.com/EjKQEzI.png
   [5]: http://i.imgur.com/gl7wqQW.png

@@ -1,0 +1,16 @@
+{
+  "name": "slacodoro",
+  "version": "0.1.0",
+  "description": "Pomodoro technique for Slack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Balaj Marius",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "slack-node": "^0.1.7"
+  }
+}

@@ -1,7 +1,7 @@
 module.exports = {
 	
-	workDuration: 25 * 60000, /* 25 min * 6000 ms */
-	pauseDuration: 5 * 60000, /* 25 min * 6000 ms */
+	workDuration: 25 * 60000, /* 25 min * 60.000 ms */
+	pauseDuration: 5 * 60000, /* 5 min * 60.000 ms */
 	
 	startText: ':white_check_mark: _you should get *back to work*!_', /* supports slack markdown */
 	pauseText: ':bell: _you deserve a *break*!_',
